@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.nav-items {
+  display: flex;
+}
+
+.items {
+  padding: 5px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
